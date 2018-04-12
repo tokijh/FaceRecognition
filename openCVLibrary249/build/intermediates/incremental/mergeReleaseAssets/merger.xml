@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/tokijh/Desktop/얼굴인식(사람구별)/FaceRecognition_OK/openCVLibrary249/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/tokijh/Desktop/얼굴인식(사람구별)/FaceRecognition_OK/openCVLibrary249/src/release/assets"/></dataSet></merger>
